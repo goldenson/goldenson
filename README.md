@@ -1,2 +1,0 @@
-# goldenson
-Personal website
