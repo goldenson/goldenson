@@ -1,2 +1,2 @@
-# goldenson
+# Goldenson
 Personal website

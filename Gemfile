@@ -5,4 +5,4 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'puma', '~> 3.7'
+gem "passenger", "~> 5.0"
